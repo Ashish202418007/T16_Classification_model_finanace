@@ -1,1 +1,1 @@
-# T16_Classification_model_finanace
+# T16_Classification_model_finance
